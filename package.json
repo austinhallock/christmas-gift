@@ -1,0 +1,13 @@
+{
+  "name": "ChristmasGift",
+  "private": true,
+  "version": "0.0.1",
+  "author": "Austin Hallock",
+  "description": "Christmas Gift",
+  "dependencies" : {
+    "socket.io" : "0.9.16"
+  },
+  "engine": {
+    "node" : ">=0.10.1"
+  }
+} 
